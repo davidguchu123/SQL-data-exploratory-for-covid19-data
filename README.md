@@ -1,0 +1,1 @@
+# SQL-data-exploratory-for-covid19-data
